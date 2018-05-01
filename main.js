@@ -1,1 +1,1 @@
-console.log('esto es la versión 1.0.1 en la rama de desarrollo');
+console.log('esto es la versión 1.0.1 en la rama master');
