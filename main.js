@@ -1,0 +1,1 @@
+console.log('esto es la versión 1.0.0');
